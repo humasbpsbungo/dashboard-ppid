@@ -1,10 +1,5 @@
-// Your Google Sheets API key
 const API_KEY = 'AIzaSyACFkF47rmr4Ob2LZepM-xU5QCIdLmN014';
-
-// ID of the Google Spreadsheet
 const SPREADSHEET_ID = '1d6yPYK89_mkh79MMEyGfAJV1FyT1LS-rEgne5UgqoMY';
-
-// Range of data to fetch (e.g., Sheet1!A1:D10)
 const RANGE = 'Kinerja!A1:F8';
 
 // Fetch data from Google Spreadsheet
